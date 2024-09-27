@@ -1,4 +1,4 @@
 Hey 👋
 I am Yunus from Germany 🇩🇪
 
-Currently learning: JavaScript
+Currently learning: JavaScript (Progress: 1%)
