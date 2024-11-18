@@ -9,4 +9,4 @@ Capable of:
 - HTML
 - CSS
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yukathe1st&theme=github-dark-dimmed&border_radius=20&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=yukathe1st&theme=github-dark-dimmed&border_radius=20&hide_longest_streak=true" alt="GitHub Streak" />
