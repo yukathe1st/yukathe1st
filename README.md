@@ -1,7 +1,7 @@
 ## Hey there 👋
 I am Yunus from Germany 🇩🇪
 
-Currently learning: Dart & Flutter
+Currently learning: __Dart & Flutter__
 
 I already know
 <div >
