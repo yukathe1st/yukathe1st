@@ -1,10 +1,10 @@
-Hey 👋
+## Hey there 👋
 I am Yunus from Germany 🇩🇪
 
-Currently learning: ~~JavaScript (Progress: 2%)~~ (cancelled, i hate it)
-<br>
-Now learing: Python (Progress: 1%)
+Currently learning: Dart & Flutter
 
-Capable of:
-- HTML
-- CSS
+I already know
+<div >
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+</div>
